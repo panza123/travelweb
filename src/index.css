@@ -10,7 +10,7 @@ body{
     box-sizing: border-box;
     font-family: "Open Sans", sans-serif;
     background-color:#FFFFFF ;
-    
+    overflow-x: hidden;
 }
 h2,.p{
     font-family: "Poppins", sans-serif;
