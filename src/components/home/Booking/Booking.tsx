@@ -24,7 +24,7 @@ export default function Booking() {
 
   return (
     // Container div with a maximum width and flexbox layout
-    <div className="max-w-[1200px] flex gap-10 mt-10 mx-auto"data-aos="zoom-in-right" >
+    <div className="max-w-[1200px] flex gap-10 mt-10 mx-auto" data-aos="zoom-in-right" >
       {/* Section for booking steps */}
       <section className="flex-1 max-w-[600px]">
         {/* Title for the booking steps */}
